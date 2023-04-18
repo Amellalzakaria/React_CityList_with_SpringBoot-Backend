@@ -27,5 +27,5 @@ Getting Started
 ## Usage
 The application displays a list of cities and allows the user to search for cities by name. The user can also click on a city to view more information about it.
 
-##Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
