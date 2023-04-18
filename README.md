@@ -18,7 +18,7 @@ MySQL Server
 Getting Started
 1. Clone the repository to your local machine.
 2. Import the spring-boot-backend folder into Eclipse.
-3. Start the MySQL server and create a database named citylist.
+3. Start the MySQL server and create a database named city5.
 4. Update the MySQL connection details in the application.properties file in the src/main/resources folder.
 5. Start the backend server by running the CityListApplication.java file as a Java application.
 6. Open the react-frontend folder in a terminal and run npm install to install the necessary dependencies.
